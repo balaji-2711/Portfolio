@@ -1,0 +1,39 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/boot.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+ 
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "NodeJS",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "ExpressJS",
+    "imageSrc": "skills/express.png"
+  }
+]
