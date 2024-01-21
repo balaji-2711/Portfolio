@@ -9,6 +9,16 @@
     "Bsource":"https://github.com/balaji-2711/FashionWeb_Backend"
   },
   {
+    "title": "Whatsapp",
+    "imageSrc": "projects/whatsaspp.jpg",
+    "description": "This is a project made to build a Chatting Platform online.",
+    "skills": ["React", "Mongodb","Express", "Node" ],
+    "demo": "https://lovely-smakager-f3ac26.netlify.app/",
+    "Fsource": "https://github.com/balaji-2711/whatsappfrontend",
+    "Bsource":"https://github.com/balaji-2711/whatsappbackend"
+},
+
+  {
     "title": "TravelX",
     "imageSrc": "projects/travel.png",
     "description": "This is a project made to build a complete ecommerce website.",
@@ -18,15 +28,7 @@
     "Bsource":"https://github.com/balaji-2711/Fashionly_backend"
 
   },
-  {
-      "title": "Whatsapp",
-      "imageSrc": "projects/whatsaspp.jpg",
-      "description": "This is a project made to build a Chatting Platform online.",
-      "skills": ["React", "Mongodb","Express", "Node" ],
-      "demo": "https://lovely-smakager-f3ac26.netlify.app/",
-      "Fsource": "https://github.com/balaji-2711/whatsappfrontend",
-      "Bsource":"https://github.com/balaji-2711/whatsappbackend"
-  },
+
 
   {
     "title": "Netflix",
@@ -37,8 +39,6 @@
     
      "Fsource": "https://github.com/balaji-2711/netflix",
      "Bsource":"https://github.com/balaji-2711/netflix"
-
-
 
 }
 
