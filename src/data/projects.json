@@ -9,14 +9,34 @@
     "Bsource":"https://github.com/balaji-2711/FashionWeb_Backend"
   },
   {
-    "title": "Fashionly",
-    "imageSrc": "projects/clothes.png",
+    "title": "TravelX",
+    "imageSrc": "projects/travel.png",
     "description": "This is a project made to build a complete ecommerce website.",
     "skills": ["React", "Mongodb","Express", "Node" ],
     "demo": "https://velvety-melomakarona-e6a75b.netlify.app/Dashboard",
-    "Fsource": "https://github.com/balaji-2711/Fashionly_frontend",
+    "Fsource": "https://github.com/balaji-2711/Fashionly_frontend/tree/master",
     "Bsource":"https://github.com/balaji-2711/Fashionly_backend"
 
-  }
-  
+  },
+  {
+      "title": "Whatsapp",
+      "imageSrc": "projects/whatsaspp.jpg",
+      "description": "This is a project made to build a Chatting Platform online.",
+      "skills": ["React", "Mongodb","Express", "Node" ],
+      "demo": "https://lovely-smakager-f3ac26.netlify.app/",
+      "Fsource": "https://github.com/balaji-2711/whatsappfrontend",
+      "Bsource":"https://github.com/balaji-2711/whatsappbackend"
+  },
+
+  {
+    "title": "Netflix",
+    "imageSrc": "projects/nttt.jpg",
+    "description": "This is a project made to build a Chatting Platform online.",
+    "skills": ["React", "Mongodb","Express", "Node" ],
+    "demo": "https://grand-blini-2a22d4.netlify.app/login",
+    
+    "Fsource": "https://github.com/balaji-2711/netflix"
+    
+}
+
 ]
