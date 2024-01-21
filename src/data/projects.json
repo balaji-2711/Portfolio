@@ -31,12 +31,15 @@
   {
     "title": "Netflix",
     "imageSrc": "projects/nttt.jpg",
-    "description": "This is a project made to build a Chatting Platform online.",
-    "skills": ["React", "Mongodb","Express", "Node" ],
-    "demo": "https://grand-blini-2a22d4.netlify.app/login",
+     "description": "This is a project made to build a Chatting Platform online.",
+     "skills": ["React", "Mongodb","Express", "Node" ],
+     "demo": "https://grand-blini-2a22d4.netlify.app/login",
     
-    "Fsource": "https://github.com/balaji-2711/netflix"
-    
+     "Fsource": "https://github.com/balaji-2711/netflix",
+     "Bsource":"https://github.com/balaji-2711/netflix"
+
+
+
 }
 
 ]
