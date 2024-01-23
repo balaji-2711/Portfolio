@@ -28,6 +28,16 @@ export const Contact = () => {
             github.com/balaji-2711
           </a>
         </li>
+
+        <li className={styles.link}>
+          <img src={getImageUrl("contact/rr.png")} alt="Github icon" />
+          <a
+            href="https://drive.google.com/file/d/1wk4sR63YfXiWImZGs6aO_3H36e2cE_NZ/view?usp=sharing"
+            target="_blank"
+          >
+            Balaji - Resume
+          </a>
+        </li>
       </ul>
     </footer>
   );
