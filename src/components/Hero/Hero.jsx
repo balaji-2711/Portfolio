@@ -15,9 +15,20 @@ export const Hero = () => {
           innovative solutions and contributing to impactful projects. Eager to
           bring dedication and a fresh perspective to a dynamic team.
         </p>
-        <a href="mailto:smilewithbalaa@email.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        <span>
+          <a
+            href="mailto:smilewithbalaa@email.com"
+            className={styles.contactBtn}
+          >
+            Contact Me
+          </a>{" "}
+          <a
+            href="https://drive.google.com/file/d/1wk4sR63YfXiWImZGs6aO_3H36e2cE_NZ/view?usp=sharing"
+            className={styles.contactBtnn}
+          >
+            Resume
+          </a>
+        </span>
       </div>
       <img
         src={getImageUrl("hero/boy5.webp")}
