@@ -24,6 +24,7 @@ export const Hero = () => {
           </a>{" "}
           <a
             href="https://drive.google.com/file/d/1wk4sR63YfXiWImZGs6aO_3H36e2cE_NZ/view?usp=sharing"
+            target="_blank"
             className={styles.contactBtnn}
           >
             Resume
