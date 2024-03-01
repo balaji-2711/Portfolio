@@ -32,7 +32,7 @@ export const Contact = () => {
         <li className={styles.link}>
           <img src={getImageUrl("contact/rr.png")} alt="Github icon" />
           <a
-            href="https://drive.google.com/file/d/1wk4sR63YfXiWImZGs6aO_3H36e2cE_NZ/view?usp=sharing"
+            href="https://drive.google.com/file/d/1upvFoNz8p0BBg6puYD_1CNRJ94Lm9XWY/view"
             target="_blank"
           >
             Balaji - Resume

@@ -23,7 +23,7 @@ export const Hero = () => {
             Contact Me
           </a>{" "}
           <a
-            href="https://drive.google.com/file/d/1wk4sR63YfXiWImZGs6aO_3H36e2cE_NZ/view?usp=sharing"
+            href="https://drive.google.com/file/d/1upvFoNz8p0BBg6puYD_1CNRJ94Lm9XWY/view"
             target="_blank"
             className={styles.contactBtnn}
           >
